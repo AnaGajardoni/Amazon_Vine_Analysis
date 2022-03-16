@@ -88,7 +88,8 @@ There were 1,062,706 5-star reviews, 3,293 being Vine Reviews representing 0.31%
 
 **What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?**
 
-
+There were 1,801,974 reviews, 5-star reviews represented 58.97% of the total, which was a high number. However, from this total, the majority was from Non Vine reviews - they represented 58.79% of the total.
 
 ## Summary
-
+The numbers clearly show that there is no bias in this dataset (or else the Vine reviews would be much better if compared to the Non Vine ones).
+As an extra analysis, I would recommend breaking the query per product instead of simply review rating and checking what products actually had best reviews. For example, what products make to in this subset of 5-star reviews? How about the ones who make it, how many helpful votes are there?
